@@ -1,3 +1,3 @@
 # animla
 There are no words. Return here soon
-![animla](https://github.com/animla.github.io/images/animla2.png) 
+![animla](images/animla2.png)
