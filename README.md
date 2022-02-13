@@ -1,2 +1,3 @@
-There are no words. Return here soon
-![animla](images/animla2.png)
+MERCH COMING SOON
+![animla](images/animla2.png) "animla"
+![animla](images/animla-invincible.gif) "animla does not die"
